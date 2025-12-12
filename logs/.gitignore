@@ -1,0 +1,7 @@
+# Ignorar todos los archivos de log
+*.txt
+*.log
+
+# Excepto este archivo
+!.gitignore
+!.gitkeep
